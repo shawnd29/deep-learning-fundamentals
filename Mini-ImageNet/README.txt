@@ -1,5 +1,5 @@
 Write a convolutional network in Keras to train the Mini-ImageNet 
-dataset on the course website. Your constraint is to create a network
+dataset. Your constraint is to create a network
 that achieves at least 70% test accuracy.
 
 Submit your answers as two files train.py and test.py. Make
