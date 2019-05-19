@@ -2,7 +2,6 @@
 #To run this program 
 #KERAS_BACKEND=tensorflow x_train y_train model_1
 
-#Done by Shawn D'Souza - srd59
 
 from keras.models import load_model
 import sys

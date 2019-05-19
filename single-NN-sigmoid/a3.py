@@ -1,8 +1,6 @@
 # This program finds the predictions using a single layer neural network of 3 nodes 
 # To run this program type
-# python a3.py <train> <test> 
 
-# Done by Shawn D'Souza srd59
 
 import numpy as np
 import sys

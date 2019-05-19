@@ -1,6 +1,6 @@
  #This program finds the predictions using a single layeer nwural network of 3 nodes while using minibatch
 # To run this program type
-# python a3.py <train> <test>
+# python a4.py <train> <test>
 
 # Done by shawn D'Souza
 
