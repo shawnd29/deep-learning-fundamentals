@@ -1,5 +1,5 @@
 
-Write a CUDA program for computing the dot product of a vector in parallel with 
+Write a OpenMP program for computing the dot product of a vector in parallel with 
 each row of a matrix. You are required to have each thread access consecutive
 memory locations (coalescent memory access). The inputs are 
 
