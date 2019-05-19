@@ -3,10 +3,6 @@
 #To run this program 
 #KERAS_BACKEND=tensorflow python a6_train.py  x_train y_train model_1 
 
-#Done by Shawn D'Souza - srd59
-
- 
-
 from keras.models import Sequential
 from keras.layers.core import Dense, Dropout, Activation, Flatten
 from keras.layers.convolutional import Conv2D, MaxPooling2D, AveragePooling2D
