@@ -1,6 +1,6 @@
 /*
 This assignment calculates the dot product using OpenMP
-done by Shawn Rahul D'Souza - srd59
+done by Shawn Rahul D'Souza 
 */
 #include <stdio.h>
 #include <stdlib.h>
